@@ -1,0 +1,6 @@
+#+title: Readme
+
+* What this is.
+A simple program to find an indifference curve.
+* What this is not
+A activly maintained program to do that. I expect to never get issues and pull requests, but just in case.
